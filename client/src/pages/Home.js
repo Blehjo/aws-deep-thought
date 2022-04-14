@@ -20,7 +20,7 @@ const Home = () => {
       }
     };
     fetchData();
-  })
+  }, []);
 
   return (
     <main>
