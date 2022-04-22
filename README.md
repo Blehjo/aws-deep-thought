@@ -17,7 +17,7 @@
   
   *Steps required to install project and how to get the development environment running:*
   
-  Nothing needs to be installed. Simply go to 3.135.1.43
+  Nothing needs to be installed. Simply go to [Live Site](3.135.1.43)
   
   ## Usage 
   
@@ -35,7 +35,7 @@
   
   *Tests for application and how to run them:*
   
-  Go to 3.135.1.43
+  Go to [Live Site](3.135.1.43)
   
   ## License
   
